@@ -1,0 +1,5 @@
+- generate frontend according to figma specs
+- add ability to add events (that can change and trigger workflows)
+- add ability to export content to picture
+- add verbose documentation in the README on the purpose of this project
+  - we are trying to create a single source of truth for a whole year's plan
